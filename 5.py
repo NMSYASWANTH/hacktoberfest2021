@@ -6,3 +6,6 @@ for char in s2:
     x = ord(char) - ord('A') + 1
     res = res * 26 + x
 print (res)
+
+
+
