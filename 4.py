@@ -9,3 +9,7 @@ for i in range(t):
         #for j in range(a,b+1):
             #arr[j]+=k
     print(max(arr))
+
+    
+    
+    
