@@ -32,3 +32,6 @@ for i in range(a):
     t=[]
     j=0
     k=0
+    
+    
+    
