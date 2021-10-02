@@ -17,3 +17,7 @@ for _ in range(t):
             w.append(q)
     print(*w)
         
+
+        
+        
+        
